@@ -1,10 +1,8 @@
-<h1 align="center" id="title">League Of Legends Page using React</h1>
-
 <p align="center"><img src="https://logos-world.net/wp-content/uploads/2020/11/League-of-Legends-Logo.png" alt="project-image"></p>
 
 <p id="description">¡Bienvenido a mi réplica de la página oficial de League of Legends construida con React! Este proyecto es una recreación de la famosa página web del juego diseñada para mostrar las últimas noticias actualizaciones campeones y características del juego todo ello utilizando las últimas técnicas y buenas prácticas de desarrollo en React.</p>
 
-## Descripción del Proyecto
+# Descripción del Proyecto
 
 Este proyecto tiene como objetivo proporcionar una versión actualizada y totalmente funcional de la página web de League of Legends, utilizando las mejores prácticas de desarrollo en React. Algunas de las características y tecnologías destacadas incluyen:
 
@@ -20,7 +18,7 @@ Este proyecto tiene como objetivo proporcionar una versión actualizada y totalm
 
 - **Responsive Design**: Diseñamos nuestra aplicación para que sea completamente receptiva, asegurándonos de que se vea bien y funcione correctamente en una variedad de dispositivos y tamaños de pantalla.
 
-## Instalación y Uso
+# Instalación y Uso
 
 Para ejecutar localmente este proyecto, sigue estos pasos:
 
@@ -37,8 +35,10 @@ Para ejecutar localmente este proyecto, sigue estos pasos:
 4. Inicia la aplicación en modo de desarrollo:
    ```
    npm start
-## Project Screenshots
-
+# Project Screenshots
+### Page Main
 ![App Screenshot](./capturas/LolCapture1.png)
+### Page Champions
 ![App Screenshot](./capturas/LolCapture2.png)
+### Page Champion Id
 ![App Screenshot](./capturas/LolCapture3.png)
