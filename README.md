@@ -30,6 +30,7 @@ Para ejecutar localmente este proyecto, sigue estos pasos:
 2. Navega hasta el directorio del proyecto:
    ```
    cd League-Of-Legends-Page-Copy
+   cd front-end
 3. Instala las dependencias del proyecto utilizando npm:
    ```
    npm install
