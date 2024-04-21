@@ -1,0 +1,34 @@
+.difficulty-div{
+    height: 50px;
+    width: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+
+    .difficulty-div-graph{
+        width: 100%;
+        height: 10px;
+        display:flex;
+        align-items:center;
+        justify-content:space-between;
+
+        .bar{
+            width : 30.6667%;
+            height: 100%;
+            opacity: 1;
+            background-color: rgb(8, 215, 247);
+            background-clip: content-box;
+            transform: skewX(-40deg);
+        }
+    }
+}
+
+.difficulty-div-name{
+    margin-top: 0.9375rem;
+}
+
+.difficulty-div-content{
+    margin-top: 0.125rem;
+    color: rgb(208,168,92);
+}
